@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "New Movement Curve", menuName = "Inventory/MovementCurve")]
+[CreateAssetMenu(fileName = "New Movement Curve", menuName = "MovementCurve")]
 public class MovementCurve : ScriptableObject
 {
     public string name = "New Movement Curve";
